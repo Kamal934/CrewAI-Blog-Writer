@@ -45,7 +45,7 @@ The CrewAI-Blog-Writer is a tool designed to generate blog posts using AI based 
 To generate a blog post, run the main script:
 
 ```sh
-python main.py
+python crew.py
 ```
 
 ## Directory Structure
